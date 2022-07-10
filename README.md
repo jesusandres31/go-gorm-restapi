@@ -1,6 +1,6 @@
 # Go REST API CRUD
 
 - Gorilla Mux
-- Gorm with
+- Gorm
 - PostgreSQL
 - Docker
